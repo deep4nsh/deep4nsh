@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepansh Gupta</h1>
-<h3 align="center">A passionate android app developer from India.</h3>
+<h3 align="center">A passionate android app developer from India. <img align="right" src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif" alt="hello gif" width="50" height="50"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep4nsh&label=Profile%20views&color=0e75b6&style=flat" alt="deep4nsh" /> </p>
 
