@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepansh Gupta<img align="center" src="https://www.animatedimages.org/data/media/1524/animated-shin-chan-image-0036.gif" alt="hello gif" width="80" height="80">
+<h1 align="center">Hi 👋, I'm Deepansh Gupta
  </h1>
 <h3 align="center">A passionate app developer from India.</h3>
 
