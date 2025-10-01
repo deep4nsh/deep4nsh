@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep4nsh&label=Profile%20views&color=0e75b6&style=flat" alt="deep4nsh" /> </p>
 
-* Currently Working On [Diliver- A food delivery app.](https://github.com/DeeDev69/Diliver.git)
+* Currently Working On [Canteen Management App.](https://github.com/deep4nsh/CanTeen)
 
 * Learning **Dart, Flutter, Gradle, APIs**
 
