@@ -57,7 +57,7 @@ A full-stack, multi-app Flutter ecosystem for campus dining — connecting stude
 
 ---
 
-### [dtuhostel.in](https://github.com/deep4nsh/deploytest2) — DTU Hostel Allotment System
+### [dtuhostel.in](dtuhostel.in) — DTU Hostel Allotment System
 
 A production-grade, full-stack web platform automating hostel seat allocation for Delhi Technological University. Deployed on AWS and actively used by the university.
 
